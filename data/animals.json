@@ -135,6 +135,25 @@
         "hungry"
       ],
       "id": "13"
+    },
+    {
+      "name": "Maxwell",
+      "species": "tiger",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "14"
+    },
+    {
+      "name": "Maxwell lil bro ",
+      "species": "lion",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "zany",
+        "loving"
+      ],
+      "id": "15"
     }
   ]
 }
